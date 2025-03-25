@@ -1,0 +1,156 @@
+﻿  AlienWorld.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(16,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(19,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(100,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(104,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(104,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(104,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(113,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(117,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(117,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(117,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(126,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(130,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(130,17): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(130,12): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(235,47): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(235,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(253,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(253,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(307,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\AlienWorld.cpp(307,30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Animation.cpp
+  Colors.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(8,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(8,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(10,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(10,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(11,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(11,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(11,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(13,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(13,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(14,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(14,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(14,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(15,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(15,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(15,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(16,35): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(17,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(17,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(19,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(19,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(19,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(23,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Colors.cpp(23,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Creature.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(15,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(24,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(40,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(40,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(40,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(48,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(48,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(48,11): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(59,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(70,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(71,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(81,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(82,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(94,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(105,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(106,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(114,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(115,16): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(144,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(147,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(163,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(211,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(211,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(227,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Creature.cpp(227,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Islands.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Islands.cpp(11,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Islands.cpp(32,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Islands.cpp(56,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Islands.cpp(57,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  Macros.hpp
+  Modeling.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Modeling.cpp(8,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Modeling.cpp(17,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Modeling.cpp(54,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Ocean.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(6,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(8,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(10,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(11,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(13,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(62,27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(65,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(66,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(67,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(68,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(80,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(81,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(82,88): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(83,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(88,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(89,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(90,91): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(91,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Ocean.cpp(173,18): warning C4305: '-=': truncation from 'double' to 'float'
+  OrbitCannon.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(27,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(28,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(31,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(39,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(46,11): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(64,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(115,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\OrbitCannon.cpp(225,20): warning C4018: '<': signed/unsigned mismatch
+  Particles.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(30,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(31,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(37,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(38,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(46,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(47,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(53,39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(54,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(62,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(63,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(66,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(67,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(128,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Particles.cpp(144,11): warning C4018: '<': signed/unsigned mismatch
+  Textures.cpp
+  UFO.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(10,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(22,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(31,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(48,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(59,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(64,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(65,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(66,22): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(85,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(89,18): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(101,14): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(164,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(168,13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(171,21): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(220,114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(220,86): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(220,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(222,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(235,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(235,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\UFO.cpp(238,18): warning C4305: '*=': truncation from 'double' to 'float'
+  Vector3.cpp
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Vector3.cpp(10,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\GraphicsFun\Vector3.cpp(41,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  GraphicsFun.vcxproj -> C:\Users\User\Desktop\OpenGL Practice\opengl_2_alien_world\Debug\GraphicsFun.exe

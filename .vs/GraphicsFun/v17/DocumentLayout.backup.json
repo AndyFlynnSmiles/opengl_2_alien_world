@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Vector3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\UFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\UFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Particles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Particles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\OrbitCannon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\OrbitCannon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Modeling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Modeling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Creature.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Creature.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\AlienWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\AlienWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\AlienWorld.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\AlienWorld.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Vector3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Vector3.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\UFO.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\UFO.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Textures.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Textures.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Particles.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Particles.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Modeling.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Modeling.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Creature.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Creature.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Colors.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Colors.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Animation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Animation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Textures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Islands.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\OrbitCannon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\OrbitCannon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GRAPHICSFUN\\LOADBMP.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GRAPHICSFUN\\LOADBMP.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Islands.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DC87665E-090C-4C82-93C2-3C09B2C8DCA9}|GraphicsFun\\GraphicsFun.vcxproj|solutionrelative:GraphicsFun\\Islands.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Desktop\\OpenGL Practice\\GraphicsFun\\GraphicsFun\\Earth.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlienWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\AlienWorld.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\AlienWorld.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\AlienWorld.cpp",
+              "RelativeToolTip": "GraphicsFun\\AlienWorld.cpp",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAAAMMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T01:45:25.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Creature.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Creature.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Creature.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Creature.cpp",
+              "RelativeToolTip": "GraphicsFun\\Creature.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-24T03:58:01.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modeling.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Modeling.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Modeling.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Modeling.cpp",
+              "RelativeToolTip": "GraphicsFun\\Modeling.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T12:51:10.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrbitCannon.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\OrbitCannon.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\OrbitCannon.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\OrbitCannon.cpp",
+              "RelativeToolTip": "GraphicsFun\\OrbitCannon.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T03:47:02.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Particles.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Particles.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Particles.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Particles.cpp",
+              "RelativeToolTip": "GraphicsFun\\Particles.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T04:14:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UFO.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\UFO.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\UFO.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\UFO.cpp",
+              "RelativeToolTip": "GraphicsFun\\UFO.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T01:34:05.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector3.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Vector3.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Vector3.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Vector3.cpp",
+              "RelativeToolTip": "GraphicsFun\\Vector3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T05:00:08.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Animation.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Animation.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Animation.cpp",
+              "RelativeToolTip": "GraphicsFun\\Animation.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T01:51:43.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AlienWorld.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\AlienWorld.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\AlienWorld.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\AlienWorld.hpp",
+              "RelativeToolTip": "GraphicsFun\\AlienWorld.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T12:52:44.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vector3.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Vector3.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Vector3.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Vector3.hpp",
+              "RelativeToolTip": "GraphicsFun\\Vector3.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-22T05:02:21.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UFO.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\UFO.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\UFO.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\UFO.hpp",
+              "RelativeToolTip": "GraphicsFun\\UFO.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T12:45:48.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Textures.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Textures.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Textures.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Textures.hpp",
+              "RelativeToolTip": "GraphicsFun\\Textures.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T07:40:21.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Particles.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Particles.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Particles.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Particles.hpp",
+              "RelativeToolTip": "GraphicsFun\\Particles.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-25T04:14:59.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Modeling.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Modeling.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Modeling.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Modeling.hpp",
+              "RelativeToolTip": "GraphicsFun\\Modeling.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-18T12:51:21.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Creature.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Creature.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Creature.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Creature.hpp",
+              "RelativeToolTip": "GraphicsFun\\Creature.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-24T03:58:54.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Colors.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Colors.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Colors.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Colors.hpp",
+              "RelativeToolTip": "GraphicsFun\\Colors.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T04:39:51.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Animation.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Animation.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Animation.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Animation.hpp",
+              "RelativeToolTip": "GraphicsFun\\Animation.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-20T01:54:26.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Colors.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Colors.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Colors.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Colors.cpp",
+              "RelativeToolTip": "GraphicsFun\\Colors.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T04:39:10.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Textures.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Textures.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Textures.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Textures.cpp",
+              "RelativeToolTip": "GraphicsFun\\Textures.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T07:40:37.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Islands.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Islands.cpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Islands.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Islands.cpp",
+              "RelativeToolTip": "GraphicsFun\\Islands.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T04:06:32.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrbitCannon.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\OrbitCannon.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\OrbitCannon.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\OrbitCannon.hpp",
+              "RelativeToolTip": "GraphicsFun\\OrbitCannon.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-26T03:47:34.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "loadBMP.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\loadBMP.h",
+              "RelativeDocumentMoniker": "GraphicsFun\\loadBMP.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\loadBMP.h",
+              "RelativeToolTip": "GraphicsFun\\loadBMP.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-21T08:06:11.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Islands.hpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Islands.hpp",
+              "RelativeDocumentMoniker": "GraphicsFun\\Islands.hpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\opengl_2_alien_world\\GraphicsFun\\Islands.hpp",
+              "RelativeToolTip": "GraphicsFun\\Islands.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-21T03:53:22.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Earth.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\OpenGL Practice\\GraphicsFun\\GraphicsFun\\Earth.cpp",
+              "RelativeDocumentMoniker": "..\\GraphicsFun\\GraphicsFun\\Earth.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\OpenGL Practice\\GraphicsFun\\GraphicsFun\\Earth.cpp",
+              "RelativeToolTip": "..\\GraphicsFun\\GraphicsFun\\Earth.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T08:05:47.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
